@@ -65,6 +65,23 @@ flutter pub get
 flutter run
 ```
 
+## 📸 Prints Obrigatórios
+
+1. ✅ Print do banco de dados mostrando `tarefas_202310166.db`
+  <img width="299" height="237" alt="image" src="https://github.com/user-attachments/assets/8330dce2-34c0-40db-964d-e50544777082" />
+
+2. ✅ Print do código do método `createDatabase()`
+  <img width="619" height="404" alt="image" src="https://github.com/user-attachments/assets/630991a7-eecf-46a3-948e-60c2cbdb35d4" />
+
+3. ✅ Print da tela de listagem com pelo menos 1 tarefa
+  <img width="407" height="864" alt="image" src="https://github.com/user-attachments/assets/13a0f56e-1627-49f8-a4bc-d8b65a59587e" />
+
+4. ✅ Print do formulário preenchido antes de salvar
+  <img width="407" height="864" alt="image" src="https://github.com/user-attachments/assets/11638dcd-6d5b-4af5-9f21-a119d5b22c63" />
+
+5. ✅ Print do JSON do objeto criado no console
+  <img width="1343" height="51" alt="image" src="https://github.com/user-attachments/assets/3b6f7f6e-8682-468a-b9fe-f81dac3e9145" />
+
 ## 📦 Dependências
 
 ```yaml
