@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'theme.dart';
+import 'pages/home_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -14,7 +15,7 @@ class MyApp extends StatelessWidget {
       title: 'Tarefas - RA 202310166',
       theme: temaIce,
       debugShowCheckedModeBanner: false,
-      home: const HomePage(), // A implementar
+      home: const HomePage(),
     );
   }
 }
