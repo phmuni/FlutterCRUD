@@ -82,6 +82,10 @@ flutter run
 5. ✅ Print do JSON do objeto criado no console
   <img width="1343" height="51" alt="image" src="https://github.com/user-attachments/assets/3b6f7f6e-8682-468a-b9fe-f81dac3e9145" />
 
+## 📹 Video Demo
+
+https://drive.google.com/file/d/1S_PKx52--hGYDgoHkfoqnCZGT72RMFKe/view
+
 ## 📦 Dependências
 
 ```yaml
